@@ -3,7 +3,7 @@ body {
 }
 .container {
   background-color: rgb(80, 228, 80);
-  padding: 2%;
+  padding: 50px 10px;
 }
 .minContainer {
   background-color: white;
@@ -12,38 +12,54 @@ body {
 }
 p {
   font-family: "Lucida Console", "Courier New", monospace;
+  color: gray;
 }
 .btnAdd {
   color: white;
-  background-color: rgb(78, 153, 238);
-  border-radius: 10px;
+  background-color: rgb(81, 156, 243);
+  border-radius: 20px;
   border: none;
+  padding: 5px 25px;
+}
+.paraGraph {
+  color: black;
 }
 input {
   border-color: rgb(231, 230, 230);
+  border-color: rgba(134, 133, 133, 0.2);
+  border-radius: 2px;
 }
 
 .list2 {
+  color: rgb(134, 133, 133);
   text-decoration: line-through;
-  background-color: rgba(207, 201, 201, 0.938);
+  text-decoration-color: rgba(134, 133, 133, 0.9);
+  background-color: rgba(207, 201, 201, 0.4);
 }
 .btn1 {
+  font-size: large;
+
   color: white;
-  background-color: rgb(78, 153, 238);
-  border-radius: 10px;
+  background-color: rgb(81, 156, 243);
+  border-radius: 20px;
   border: none;
+  padding: 5px 30px;
 }
 .btn2 {
+  font-size: large;
   color: white;
-  background-color: red;
-  border-radius: 10px;
+  background-color: rgb(177, 33, 33);
+  border-radius: 20px;
   border: none;
+  padding: 5px 30px;
 }
 .btn3 {
+  font-size: large;
   color: white;
-  background-color: green;
-  border-radius: 10px;
+  background-color: rgb(41, 197, 41);
+  border-radius: 20px;
   border: none;
+  padding: 5px 30px;
 }
 .Buttons {
   display: flex;
