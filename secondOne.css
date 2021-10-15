@@ -1,0 +1,48 @@
+
+.TopOfPage {
+  padding-left: 25%;
+}
+header {
+  padding-left: 20%;
+  font-family: sans-serif;
+}
+.pragraph1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.EndOfpragraph1 {
+  padding-left: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Container {
+    height: 100%;
+    width: 100%;
+    padding-left: 4%;
+    padding-top: 4%;
+    padding-right: 4%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card {
+  margin: 30px;
+  height: 99%;
+  width: 35%;
+  border: 2px solid rgba(155, 153, 153, 0.1);
+  border-top-style: solid;
+  border-top-color: orange;
+  padding-right: 3%;
+  padding-left: 3%;
+  align-content: center;
+  box-shadow: 5px 10px 18px rgba(201, 199, 199, 0.3);
+}
+h3 {
+  padding-left: 15%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: -1px 3px 3px rgb(172, 169, 169);
+}
+img {
+  padding-left: 45%;
+  align-content: center;
+}
+.pcard{
+  font-family:  'Courier New', Courier, monospace;
+}
